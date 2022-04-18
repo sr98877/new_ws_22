@@ -1,1 +1,3 @@
-my n deta
+my new deta
+of python 3
+pip 
